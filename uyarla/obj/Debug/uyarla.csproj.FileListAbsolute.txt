@@ -1,0 +1,17 @@
+C:\Users\Zafer\source\repos\uyarla\uyarla\bin\Debug\uyarla.exe.config
+C:\Users\Zafer\source\repos\uyarla\uyarla\bin\Debug\uyarla.exe
+C:\Users\Zafer\source\repos\uyarla\uyarla\bin\Debug\uyarla.pdb
+C:\Users\Zafer\source\repos\uyarla\uyarla\bin\Debug\System.IO.Packaging.dll
+C:\Users\Zafer\source\repos\uyarla\uyarla\bin\Debug\System.IO.Packaging.xml
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.csproj.AssemblyReference.cache
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.csproj.ResolveComReference.cache
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.Properties.Resources.resources
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.csproj.GenerateResource.cache
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.exe
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.pdb
+C:\Users\Zafer\source\repos\uyarla\uyarla\bin\Debug\ExcelDataReader.dll
+C:\Users\Zafer\source\repos\uyarla\uyarla\bin\Debug\ExcelDataReader.pdb
+C:\Users\Zafer\source\repos\uyarla\uyarla\bin\Debug\ExcelDataReader.xml
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.fompk.resources
+C:\Users\Zafer\source\repos\uyarla\uyarla\obj\Debug\uyarla.csproj.Up2Date

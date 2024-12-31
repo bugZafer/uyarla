@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A73C377-C84A-4004-8585-735E407B63FD}|uyarla\\uyarla.csproj|C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\uyarla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A73C377-C84A-4004-8585-735E407B63FD}|uyarla\\uyarla.csproj|solutionrelative:uyarla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A73C377-C84A-4004-8585-735E407B63FD}|uyarla\\uyarla.csproj|c:\\users\\zafer\\documents\\github\\uyarla\\uyarla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A73C377-C84A-4004-8585-735E407B63FD}|uyarla\\uyarla.csproj|solutionrelative:uyarla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A73C377-C84A-4004-8585-735E407B63FD}|uyarla\\uyarla.csproj|C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\uyarla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A73C377-C84A-4004-8585-735E407B63FD}|uyarla\\uyarla.csproj|solutionrelative:uyarla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\uyarla\\Form1.cs",
+              "RelativeDocumentMoniker": "uyarla\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\uyarla\\Form1.cs",
+              "RelativeToolTip": "uyarla\\Form1.cs",
+              "ViewState": "AgIAAMMHAAAAAAAAAAAAANsHAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:59:49.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\uyarla\\Program.cs",
+              "RelativeDocumentMoniker": "uyarla\\Program.cs",
+              "ToolTip": "C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\uyarla\\Program.cs",
+              "RelativeToolTip": "uyarla\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:59:38.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\uyarla\\Form1.cs",
+              "RelativeDocumentMoniker": "uyarla\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zafer\\Documents\\GitHub\\uyarla\\uyarla\\Form1.cs [Design]",
+              "RelativeToolTip": "uyarla\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:59:38.61Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
